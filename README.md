@@ -8,7 +8,7 @@ Atualmente, tenho trabalhado com Java, Spring Boot, Hibernate, PostgreSQL e ferr
 
 Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com soluções robustas e escaláveis em ambientes colaborativos e inovadores.</p>&nbsp;
 
-&nbsp; ![Rafadiassss GitHub stats](https://github-readme-stats.vercel.app/api?username=kauan-17&show_icons=true&theme=radical)&nbsp;
+&nbsp; ![Rafadiassss GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafadiassss&show_icons=true&theme=radical)&nbsp;
  &nbsp;
  &nbsp;
 
@@ -22,7 +22,7 @@ Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Angula](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -52,19 +52,17 @@ Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com
 
 #### Projetos em Destaque:
 
-[![Filme](https://img.shields.io/badge/Filme-Java_CRUD-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kauan-17/Filme)
+[![Projeto 1](https://img.shields.io/badge/Projeto1-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Rafadiassss/Projeto1)
 &nbsp;
-[![Decodificador](https://img.shields.io/badge/Decodificador-JS_Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/kauan-17/Decodificador)
+[![Projeto 2](https://img.shields.io/badge/Projeto2-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Rafadiassss/Projeto2)
 &nbsp;
-[![Consultório](https://img.shields.io/badge/Consult%C3%B3rio-Sistema_Java_Hibernate-007396?style=for-the-badge&logo=hibernate&logoColor=white)](https://github.com/kauan-17/Consutorio)
-&nbsp;
-[![Consulta-Spring](https://img.shields.io/badge/Consulta--Spring-CRUD_SpringBoot_Java17-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/kauan-17/Consulta-Spring)
+[![Projeto 3](https://img.shields.io/badge/Projeto3-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/Rafadiassss/Projeto3)
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan-17/kauan-17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan-17/kauan-17/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauan-17/kauan-17/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafadiassss/Rafadiassss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafadiassss/Rafadiassss/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafadiassss/Rafadiassss/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br
 
@@ -74,14 +72,14 @@ Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/kauanh01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/rafadiassss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.kauan17neves@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kauanoliveiraneves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:contato.rafaela@example.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaela-dias-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
  
 </div>&nbsp;&nbsp;
- 
 
   
   
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
