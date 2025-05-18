@@ -8,7 +8,7 @@ Atualmente, tenho trabalhado com Java, Spring Boot, Hibernate, PostgreSQL e ferr
 
 Busco oportunidades para crescer como desenvolvedor full stack, contribuindo com soluções robustas e escaláveis em ambientes colaborativos e inovadores.</p>&nbsp;
 
-&nbsp; ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauan-17&show_icons=true&theme=radical)&nbsp;
+&nbsp; ![Rafadiassss GitHub stats](https://github-readme-stats.vercel.app/api?username=kauan-17&show_icons=true&theme=radical)&nbsp;
  &nbsp;
  &nbsp;
 
